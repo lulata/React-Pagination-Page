@@ -1,4 +1,4 @@
-![Preview]pagination.PNG?raw=true)
+![Preview](pagination.PNG?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
